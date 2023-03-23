@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm S.Fernando Carrasco</h1>
+<h1 align="center">Hi 👋, I'm Fernando Carrasco</h1>
 <h3 align="center">Frontend Developer from Ecuador</h3>
 
 <h3 align="left">Connect with me: sfcc.5555@gmail.com</h3>
