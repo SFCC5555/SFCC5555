@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Carrasco</h1>
-<h3 align="center">Frontend Developer from Ecuador</h3>
+<h3 align="center">Full-Stack Developer from Ecuador</h3>
 
 - I have worked on various personal projects that have allowed me to acquire technical skills in different programming languages, platforms, and frameworks. In particular, I have experience with HTML, CSS, Sass, JavaScript, Tailwind, Bootstrap, Figma, Redux, React Router V6, Git, and React.js, among others, in the Frontend domain. I also possess knowledge in the Backend domain, creating and managing RESTful APIs for my applications using technologies such as Node.js, Express, MongoDB, and Mongoose. My experience has been centered around developing web applications with responsive design focused on mobile devices. I have applied my expertise to high-quality personal projects and have made an effort to stay up-to-date with the latest trends and technologies in my field. Additionally, I am highly motivated to continue learning and enhancing my skills.👨‍💻 All of my projects are available at [https://sfcc5555.netlify.app/](https://sfcc5555.netlify.app/)
 
