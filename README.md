@@ -28,11 +28,7 @@ Full-Stack Software Developer specializing in React, Next.js, Node.js, TypeScrip
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<!-- Replace with your email or remove -->
-<a href="mailto:sfcc.5555@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+📧 **Email:** sfcc.5555@gmail.com
 
 ## 🛠️ Languages & Tools
 
