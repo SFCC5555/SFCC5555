@@ -29,7 +29,7 @@ Full-Stack Software Developer specializing in React, Next.js, Node.js, TypeScrip
 </a>
 
 <!-- Replace with your email or remove -->
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:sfcc.5555@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -150,17 +150,3 @@ Full-Stack Software Developer specializing in React, Next.js, Node.js, TypeScrip
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SFCC5555&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SFCC5555&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SFCC5555&theme=github-dark&hide_border=true" />
-</p>
